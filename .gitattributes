@@ -1,6 +1,6 @@
 .* export-ignore
 *.sh export-ignore
 /docs export-ignore
-/src export-ignore
+#/src export-ignore
 /package* export-ignore
 /*.js export-ignore
